@@ -1,12 +1,13 @@
 package com.thetestingacademy.TestNG;
 
+import io.qameta.allure.Description;
 import io.restassured.RestAssured;
 import org.testng.annotations.Test;
 
 public class Lab261 {
 
 /*       TESTING FRAMEWORK:-
-   Testing framework is reequired when u have 1000's or 10000 test cases and u want to group them.
+   Testing framework is required when u have 1000's or 10000 test cases and u want to group them.
    we want to group the test cases based on sanity & smoke.
    we want some functionality where we can do something before and after running the test cases
 
@@ -21,6 +22,7 @@ c. priority,
 d. enabled,            */
 
     // Creating a function
+    @Description("TC#1 Verify 261 Get Request 1")
     @Test   // the moment u add @Test a run symbol is shown
     public void getRequest(){
         RestAssured
@@ -29,6 +31,17 @@ d. enabled,            */
                 .basePath("/ping")
                 .when().get()
                 .then().statusCode(201);
+    }
+    @Description("TC#1 Verify 261 Get Request 2")
+    @Test
+    public void getRequest2() {
+        RestAssured
+                .given()
+                .baseUri("https://restful-booker.herokuapp.com")
+                .basePath("/ping")
+                .when().get()
+                .then().statusCode(201);
+    }
 
 //        here there is no main function but still the test will run
 //        because whenever TestNG sees @test in ur repository
@@ -39,6 +52,4 @@ d. enabled,            */
 //        with java main function and the method u created will be copied here, and it will be executed
 //   How TestNG knows where is my file present for this purpose TestNG creates a  TestNG xml
 //   To see  TestNG xml download TestNG xml plugins
-
-    }
 }
