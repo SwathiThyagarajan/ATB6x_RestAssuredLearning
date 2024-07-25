@@ -1,4 +1,4 @@
-package com.thetestingacademy.TestNG;
+package com.thetestingacademy.TestNG_20062024;
 
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
@@ -23,7 +23,7 @@ public class Lab267 {
         Token = "123";
         return Token;
     }
-    // Before running the I need getToken and BookingID
+    // Before running the Put, Delete and fet request I need getToken and BookingID
     @BeforeTest
     public void getTokenAndBookingID(){
         Token = getToken();

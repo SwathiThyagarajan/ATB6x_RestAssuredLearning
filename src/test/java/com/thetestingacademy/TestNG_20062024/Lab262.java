@@ -1,4 +1,4 @@
-package com.thetestingacademy.TestNG;
+package com.thetestingacademy.TestNG_20062024;
 
 import io.qameta.allure.Description;
 import org.testng.annotations.Test;
@@ -14,7 +14,7 @@ public class Lab262 {
     }
 
     @Description("TC#1 Verify Get Request 2")
-    @Test(enabled = false)
+    @Test(enabled = false) // if u mention enabled = false the test case will not run
     public void getRequest2(){
         System.out.println("TC2");
     }

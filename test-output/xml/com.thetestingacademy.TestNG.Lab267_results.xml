@@ -4,24 +4,24 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.071">
+           time="0.075">
     <properties></properties>
 
 
 
             <testcase
-                name="testGetRequest"
-                time="0.002"
-                classname="com.thetestingacademy.TestNG.Lab267">
-            </testcase>
-            <testcase
                 name="testPutRequest"
                 time="0.003"
-                classname="com.thetestingacademy.TestNG.Lab267">
+                classname="com.thetestingacademy.TestNG_20062024.Lab267">
+            </testcase>
+            <testcase
+                name="testGetRequest"
+                time="0.003"
+                classname="com.thetestingacademy.TestNG_20062024.Lab267">
             </testcase>
             <testcase
                 name="testDeleteRequest"
-                time="0.066"
-                classname="com.thetestingacademy.TestNG.Lab267">
+                time="0.069"
+                classname="com.thetestingacademy.TestNG_20062024.Lab267">
             </testcase>
 </testsuite>

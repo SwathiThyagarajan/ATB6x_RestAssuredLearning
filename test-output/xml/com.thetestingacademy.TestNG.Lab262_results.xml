@@ -12,11 +12,11 @@
             <testcase
                 name="getRequest3"
                 time="0.002"
-                classname="com.thetestingacademy.TestNG.Lab262">
+                classname="com.thetestingacademy.TestNG_20062024.Lab262">
             </testcase>
             <testcase
                 name="getRequest"
                 time="0.008"
-                classname="com.thetestingacademy.TestNG.Lab262">
+                classname="com.thetestingacademy.TestNG_20062024.Lab262">
             </testcase>
 </testsuite>

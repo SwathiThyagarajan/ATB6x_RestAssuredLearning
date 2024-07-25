@@ -3,8 +3,8 @@
 <suite name="Restful Booker API Test Suite">
     <test verbose="2" preserve-order="true" name="ATB6x_RestAssuredLearning">
         <classes>
-            <class name="com.thetestingacademy.TestNG_20062024.Lab262"> </class>
-            <class name="com.thetestingacademy.TestNG_20062024.Lab261"> </class>
+            <class name="com.thetestingacademy.ex_22062024.CRUD.POST_2.Lab272"> </class>
+
 
 
         </classes>

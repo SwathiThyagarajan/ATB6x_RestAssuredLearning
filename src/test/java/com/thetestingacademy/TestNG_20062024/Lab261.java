@@ -1,4 +1,4 @@
-package com.thetestingacademy.TestNG;
+package com.thetestingacademy.TestNG_20062024;
 
 import io.qameta.allure.Description;
 import io.restassured.RestAssured;
@@ -43,13 +43,14 @@ d. enabled,            */
                 .then().statusCode(201);
     }
 
-//        here there is no main function but still the test will run
+//        here there is no main function/method  but still the test will run
 //        because whenever TestNG sees @test in ur repository
 //        it creates a big java class where there is a main function created
 //        so whenever @test is created it will just copy the function to java class
 //        Internally it has a main function which is hidden from u
 //        At the Runtime when u click on run button a temporary Dynamic TestNG xml file will be created
 //        with java main function and the method u created will be copied here, and it will be executed
+
 //   How TestNG knows where is my file present for this purpose TestNG creates a  TestNG xml
 //   To see  TestNG xml download TestNG xml plugins
 }

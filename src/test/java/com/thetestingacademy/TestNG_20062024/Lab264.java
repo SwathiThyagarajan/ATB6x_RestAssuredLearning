@@ -1,4 +1,4 @@
-package com.thetestingacademy.TestNG;
+package com.thetestingacademy.TestNG_20062024;
 
 
 import org.testng.annotations.*;

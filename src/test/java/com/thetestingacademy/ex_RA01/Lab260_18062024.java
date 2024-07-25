@@ -2,7 +2,7 @@ package com.thetestingacademy.ex_RA01;
 
 import io.restassured.RestAssured;
 
-public class Lab260 {
+public class Lab260_18062024 {
     public static void main(String[] args) {
 
         // Creating Rest Assured Hello World Program
@@ -19,5 +19,8 @@ public class Lab260 {
                 .baseUri("https://restful-booker.herokuapp.com")
                 .basePath("/ping")
                 .when().get().then().statusCode(201);
+
+        // here above is a simple testcase if it passes nothing will be shown in output
+        // but if it fails error will be shown
     }
 }

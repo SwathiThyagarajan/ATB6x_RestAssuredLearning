@@ -1,4 +1,4 @@
-package com.thetestingacademy.TestNG;
+package com.thetestingacademy.TestNG_20062024;
 
 import io.qameta.allure.Description;
 import org.testng.Assert;
@@ -22,13 +22,15 @@ public class Lab265 {
 //        SoftAssert s = new SoftAssert();
 //        s.assertEquals("Swathi","swathi","Not Equal") ;
 //        System.out.println("End of the Program");
-//        s.assertAll();
+//        System.out.println("End of the Program 2");
+//        s.assertAll(); //assertAll means until here all of the above code will run
 //
 //        here even though Expected Result is not equal to Actual Result sout is printed. so we can use Hard Assertions
 
          // 2. Hard Assertions
         Assert.assertEquals("Swathi","swathi","Not Equal");
         System.out.println("End of the Program");
+
 
         // Hard Assertion will stop the execution it will kill the main thread
         // if line no.30 fails next line will not be executed
