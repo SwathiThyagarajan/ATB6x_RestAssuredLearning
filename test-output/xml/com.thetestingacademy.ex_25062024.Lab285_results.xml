@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6x_RestAssuredLearning"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.120">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testAuthToGetToken"
+                time="0.002"
+                classname="com.thetestingacademy.ex_25062024.Lab285">
+            </testcase>
+            <testcase
+                name="testAuthToGetToken"
+                time="0.113"
+                classname="com.thetestingacademy.ex_25062024.Lab285">
+            </testcase>
+            <testcase
+                name="testAuthToGetToken"
+                time="0.005"
+                classname="com.thetestingacademy.ex_25062024.Lab285">
+            </testcase>
+</testsuite>

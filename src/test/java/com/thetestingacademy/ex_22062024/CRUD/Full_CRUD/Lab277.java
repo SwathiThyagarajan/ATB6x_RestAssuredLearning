@@ -12,7 +12,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import static org.assertj.core.api.Assertions.*;
 
-
+// Put Request
 
 public class Lab277 {
 
@@ -124,8 +124,8 @@ public class Lab277 {
 
 
        // printing the response
-        String fulResponseJSONString = response.asString();
-        System.out.println(fulResponseJSONString);
+        String fullResponseJSONString = response.asString();
+        System.out.println(fullResponseJSONString);
 
         // Verify all the key and value pairs in the response
         // I can verify firstname, lastname, deposit etc...
@@ -146,7 +146,7 @@ public class Lab277 {
 
         // 3 TestNG Assertion with JSON Path Lib
         // Extraction
-        JsonPath jsonPath = new JsonPath(fulResponseJSONString);
+        JsonPath jsonPath = new JsonPath(fullResponseJSONString);
         String firstNameJSONPathExtracted = jsonPath.getString("firstname");
         String lastNameJSONPathExtracted = jsonPath.getString("lastname");
         Integer totalpriceJSONPathExtracted = jsonPath.getInt("totalprice");

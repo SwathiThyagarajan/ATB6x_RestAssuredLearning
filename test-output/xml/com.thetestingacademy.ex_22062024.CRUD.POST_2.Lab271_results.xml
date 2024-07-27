@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CRUD All Testcases"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.176">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testBDD_stylePOST_Positive"
+                time="1.176"
+                classname="com.thetestingacademy.ex_22062024.CRUD.POST_2.Lab271">
+            </testcase>
+</testsuite>

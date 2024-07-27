@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6x_RestAssuredLearning"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.739">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testNonBDDStylePOSTNegative"
+                time="2.739"
+                classname="com.thetestingacademy.ex_22062024.CRUD.POST_2.Lab272">
+            </testcase>
+</testsuite>
