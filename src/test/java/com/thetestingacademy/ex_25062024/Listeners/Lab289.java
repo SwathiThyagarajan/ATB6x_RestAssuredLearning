@@ -13,7 +13,7 @@ public class Lab289 {
     @Test(groups = "sanity")
     public void test1(){
         System.out.println("test1");
-        Assert.assertTrue(true);
+        Assert.assertTrue(true  );
     }
 
     @Test(groups = "sanity")

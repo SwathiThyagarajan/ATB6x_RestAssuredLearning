@@ -2,7 +2,7 @@ package com.thetestingacademy.ex_25062024;
 
 import org.testng.annotations.Test;
 
-public class Lab281 {
+public class Lab281_dependsOnMethods {
 
 /*
       ex: I have a function-ServerStartedOK and a  method -method2 I cannot Run method2 unless ServerStartedOK is Run

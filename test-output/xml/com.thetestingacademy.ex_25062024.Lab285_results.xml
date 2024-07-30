@@ -12,16 +12,16 @@
             <testcase
                 name="testAuthToGetToken"
                 time="0.002"
-                classname="com.thetestingacademy.ex_25062024.Lab285">
+                classname="com.thetestingacademy.ex_25062024.Lab285_Data_Driven_Testing">
             </testcase>
             <testcase
                 name="testAuthToGetToken"
                 time="0.113"
-                classname="com.thetestingacademy.ex_25062024.Lab285">
+                classname="com.thetestingacademy.ex_25062024.Lab285_Data_Driven_Testing">
             </testcase>
             <testcase
                 name="testAuthToGetToken"
                 time="0.005"
-                classname="com.thetestingacademy.ex_25062024.Lab285">
+                classname="com.thetestingacademy.ex_25062024.Lab285_Data_Driven_Testing">
             </testcase>
 </testsuite>

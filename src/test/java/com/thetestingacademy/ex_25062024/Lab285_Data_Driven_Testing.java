@@ -1,10 +1,9 @@
 package com.thetestingacademy.ex_25062024;
 
-import com.github.javafaker.Faker;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-public class Lab285 {
+public class Lab285_Data_Driven_Testing {
 
 /*
     Data Driven Testing using TestNG - but not recommended, Instead what we do is

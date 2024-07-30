@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.304">
+           time="3.729">
     <properties></properties>
 
 
 
             <testcase
-                name="testDemo1"
-                time="0.304"
-                classname="com.thetestingacademy.ex_25062024.Lab286_Faker">
+                name="testPostRequest"
+                time="3.729"
+                classname="com.thetestingacademy.ex_27062024.payload_by_File.Lab300">
             </testcase>
 </testsuite>

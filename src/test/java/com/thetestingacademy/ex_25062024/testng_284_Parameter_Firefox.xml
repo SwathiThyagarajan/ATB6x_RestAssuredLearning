@@ -7,7 +7,7 @@
         <parameter name="browser" value="firefox"></parameter>
 
         <classes>
-            <class name="com.thetestingacademy.ex_25062024.Lab284"> </class>
+            <class name="com.thetestingacademy.ex_25062024.Lab284_parameter"> </class>
 
         </classes>
     </test>

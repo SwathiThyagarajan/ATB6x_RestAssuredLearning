@@ -3,7 +3,7 @@ package com.thetestingacademy.ex_25062024;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
-public class Lab284 {
+public class Lab284_parameter {
 
     // we can use parameters also - it is rarely used
 

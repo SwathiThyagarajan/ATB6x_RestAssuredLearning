@@ -4,7 +4,7 @@ import io.qameta.allure.*;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class Lab280 {
+public class Lab280_GroupingTCs {
 /*
       In realtime we rarely use TestNG Priority rather we use grouping of testcases
 
@@ -38,16 +38,16 @@ public class Lab280 {
         4. QA environment '
         5. All - here u can run all of them, do not add group in xml to run all
 
-        unless u assign priority by default all of them will have 0 priority and will run in alphabetical order
+ unless u assign priority by default all of them will have 0 priority and will run in alphabetical order
 
 we can add more details to our testcases we can add description, AllureId, SeverityLevel etc.....
-u can add all the TestNG allure annotations ex: u can use an asnnotation to mention to which Jira it belongs also
+u can add all the TestNG allure annotations ex: u can use an annotation to mention to which Jira it belongs also
 
 Every test case will have a Mapping to which project it belongs to and
 ex: in excel  Once u have created all your Testcases u mention Testcase ID against each testcase.
 copy the Testcase ID and paste it here in @Issue
 
-u can allure report also by typing the below in terminal
+u can generaye allure report also by typing the below in terminal
     allure serve allure-results/
 
 */

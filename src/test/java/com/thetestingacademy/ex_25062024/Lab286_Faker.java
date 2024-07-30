@@ -3,7 +3,7 @@ package com.thetestingacademy.ex_25062024;
 import com.github.javafaker.Faker;
 import org.testng.annotations.Test;
 
-public class Lab286 {
+public class Lab286_Faker {
 
 
 /*    For Random username and password we can use java Faker liabrary

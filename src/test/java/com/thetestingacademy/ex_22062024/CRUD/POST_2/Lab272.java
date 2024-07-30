@@ -1,5 +1,6 @@
 package com.thetestingacademy.ex_22062024.CRUD.POST_2;
 
+import com.github.javafaker.Faker;
 import io.qameta.allure.Description;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
@@ -32,6 +33,10 @@ public class Lab272 {
 
         String Base_URL = "https://restful-booker.herokuapp.com";
         String Base_Path = "/booking";
+        // u can use Faker js also to generate firstname
+        Faker faker = new Faker();
+        String firstName = faker.name().firstName();
+
         String Payload = "{\n" +
                 "    \"firstname\" : \"Jim\",\n" +
                 "    \"lastname\" : \"Brown\",\n" +

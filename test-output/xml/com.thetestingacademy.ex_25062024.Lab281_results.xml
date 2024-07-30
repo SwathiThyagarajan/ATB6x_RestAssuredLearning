@@ -12,11 +12,11 @@
             <testcase
                 name="ServerStartedOK"
                 time="0.084"
-                classname="com.thetestingacademy.ex_25062024.Lab281">
+                classname="com.thetestingacademy.ex_25062024.Lab281_dependsOnMethods">
             </testcase>
             <testcase
                 name="method2"
                 time="0.002"
-                classname="com.thetestingacademy.ex_25062024.Lab281">
+                classname="com.thetestingacademy.ex_25062024.Lab281_dependsOnMethods">
             </testcase>
 </testsuite>

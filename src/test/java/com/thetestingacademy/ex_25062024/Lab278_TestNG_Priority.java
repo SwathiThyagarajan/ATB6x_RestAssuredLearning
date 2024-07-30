@@ -2,7 +2,7 @@ package com.thetestingacademy.ex_25062024;
 
 import org.testng.annotations.Test;
 
-public class Lab278 {
+public class Lab278_TestNG_Priority {
 
     // TestNG Priority in Java
 

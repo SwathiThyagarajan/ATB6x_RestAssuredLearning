@@ -12,16 +12,16 @@
             <testcase
                 name="getToken"
                 time="0.064"
-                classname="com.thetestingacademy.ex_25062024.Lab283">
+                classname="com.thetestingacademy.ex_25062024.Lab283_dependsOnGroups">
             </testcase>
             <testcase
                 name="putRequest"
                 time="0.002"
-                classname="com.thetestingacademy.ex_25062024.Lab283">
+                classname="com.thetestingacademy.ex_25062024.Lab283_dependsOnGroups">
             </testcase>
             <testcase
                 name="getBookingId"
                 time="0.002"
-                classname="com.thetestingacademy.ex_25062024.Lab283">
+                classname="com.thetestingacademy.ex_25062024.Lab283_dependsOnGroups">
             </testcase>
 </testsuite>

@@ -8,7 +8,9 @@ public class Intro_Topics {
     // 2. HashMap
     // 3. Class and Object
     // while working in Automation
-    // String is used 5%, HashMap 5% and Class and Object 80-90%
+    // String is used 5%,
+    // HashMap 5% and
+    // Class and Object 80-90%
     // Dynamic payload is nothing but class and object
 
     // Topics covered today
