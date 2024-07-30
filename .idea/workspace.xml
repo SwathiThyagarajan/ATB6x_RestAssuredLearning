@@ -5,32 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="533f6ee4-fcdf-4c95-a5ec-e2da9705ee57" name="Changes" comment="CRUD Operations">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/Intro_Topics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/Lab278.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/Lab279.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/Lab280.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/Lab281.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/Lab282.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/Lab283.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/Lab284.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/Lab285.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/Lab286.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/Listeners/CustomListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/Listeners/Lab287.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/Listeners/Lab288.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/Listeners/Lab289.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/Listeners/testng_288.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/testng_278.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/testng_280_All.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/testng_280_Production.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/testng_280_QA_environment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/testng_280_Regression.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/testng_280_sanity.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/testng_284_Parameter_Firefox.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/testng_284_Parameter_chrome.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_27062024/Lab290_LinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_27062024/gson/Lab291.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_27062024/gson/deserialization/Lab296.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_27062024/gson/serialization/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_27062024/gson/serialization/BookingDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_27062024/gson/serialization/BookingResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_27062024/gson/serialization/Lab292_gson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_27062024/gson/serialization/Lab293_gson_NegativeTC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_27062024/gson/serialization/Lab294_ArraylistPayload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_27062024/gson/serialization/json2pojo/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_27062024/gson/serialization/json2pojo/Bookingdates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_27062024/gson/serialization/json2pojo/Lab295.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_27062024/jacksonAPI/deserialization/Lab298.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_27062024/jacksonAPI/serialization/Lab297.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_27062024/jsonSchemaValidation/Lab299.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/schema.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_22062024/CRUD/Full_CRUD/Lab277.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_22062024/CRUD/Full_CRUD/Lab277.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" afterDir="false" />
     </list>
@@ -129,41 +121,56 @@
     "TestNG.Lab286.executor": "Run",
     "TestNG.Lab286.testDemo1.executor": "Run",
     "TestNG.Lab288.executor": "Run",
+    "TestNG.Lab290.executor": "Run",
+    "TestNG.Lab290.testPostRequest.executor": "Run",
+    "TestNG.Lab291 (1).executor": "Run",
+    "TestNG.Lab291.executor": "Run",
+    "TestNG.Lab292.executor": "Run",
+    "TestNG.Lab292.testNon_BDD_stylePOST_Positive.executor": "Run",
+    "TestNG.Lab292_gson.executor": "Run",
+    "TestNG.Lab293.executor": "Run",
+    "TestNG.Lab294.executor": "Run",
+    "TestNG.Lab294.testNon_BDD_stylePOST_Positive.executor": "Run",
+    "TestNG.Lab295.executor": "Run",
+    "TestNG.Lab296.executor": "Run",
+    "TestNG.Lab297.executor": "Run",
+    "TestNG.Lab298.executor": "Run",
+    "TestNG.Lab299.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/INTELLiJ_Workspace/ATB6x_RestAssuredLearning/src/test/java/com/thetestingacademy/ex_25062024/Listeners",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.thetestingacademy.ex_27062024.gson.serialization.json2pojo" />
+      <recent name="com.thetestingacademy.ex_27062024.serialization.json2pojo" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\INTELLiJ_Workspace\ATB6x_RestAssuredLearning\src\test\java\com\thetestingacademy\ex_25062024\Listeners" />
       <recent name="D:\INTELLiJ_Workspace\ATB6x_RestAssuredLearning\src\test\java\com\thetestingacademy\ex_25062024" />
       <recent name="D:\INTELLiJ_Workspace\ATB6x_RestAssuredLearning\src\test\java\com\thetestingacademy\ex_22062024\CRUD\POST" />
       <recent name="D:\INTELLiJ_Workspace\ATB6x_RestAssuredLearning" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\INTELLiJ_Workspace\ATB6x_RestAssuredLearning\src\test\resources" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.D:/INTELLiJ_Workspace/ATB6x_RestAssuredLearning/src/test/java/com/thetestingacademy/ex_25062024/Listeners/testng_288.xml">
-    <configuration name="D:/INTELLiJ_Workspace/ATB6x_RestAssuredLearning/src/test/java/com/thetestingacademy/ex_25062024/Listeners/testng_288.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB6x_RestAssuredLearning" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_25062024/Listeners/testng_288.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab285" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Lab299">
+    <configuration name="Lab292_gson" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6x_RestAssuredLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_25062024.Listeners.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex_27062024.gson.serialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_25062024" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_25062024.Lab285" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_27062024.gson.serialization" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_27062024.gson.serialization.Lab292_gson" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -171,16 +178,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab286" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab296" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6x_RestAssuredLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_25062024.Listeners.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex_27062024.gson.deserialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_25062024" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_25062024.Lab286" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_27062024.gson.deserialization" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_27062024.gson.deserialization.Lab296" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -188,34 +195,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab286.testDemo1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab297" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6x_RestAssuredLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_25062024.Listeners.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex_27062024.jacksonAPI.serialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_25062024" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_25062024.Lab286" />
-      <option name="METHOD_NAME" value="testDemo1" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_27062024.jacksonAPI.serialization" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_27062024.jacksonAPI.serialization.Lab297" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab288" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab298" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6x_RestAssuredLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_25062024.Listeners.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex_27062024.jacksonAPI.deserialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_25062024.Listeners" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_25062024.Listeners.Lab288" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_27062024.jacksonAPI.deserialization" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_27062024.jacksonAPI.deserialization.Lab298" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab299" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB6x_RestAssuredLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex_27062024.jsonSchemaValidation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_27062024.jsonSchemaValidation" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_27062024.jsonSchemaValidation.Lab299" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -225,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.D:/INTELLiJ_Workspace/ATB6x_RestAssuredLearning/src/test/java/com/thetestingacademy/ex_25062024/Listeners/testng_288.xml" />
-        <item itemvalue="TestNG.Lab288" />
-        <item itemvalue="TestNG.Lab286" />
-        <item itemvalue="TestNG.Lab286.testDemo1" />
-        <item itemvalue="TestNG.Lab285" />
+        <item itemvalue="TestNG.Lab299" />
+        <item itemvalue="TestNG.Lab298" />
+        <item itemvalue="TestNG.Lab292_gson" />
+        <item itemvalue="TestNG.Lab297" />
+        <item itemvalue="TestNG.Lab296" />
       </list>
     </recent_temporary>
   </component>
